@@ -1,0 +1,5 @@
+wasm/public
+wasm/CMakeFiles
+wasm/cmake_install.cmake
+wasm/CMakeCache.txt
+wasm/Makefile
